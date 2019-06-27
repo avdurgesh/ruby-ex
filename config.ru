@@ -78,7 +78,7 @@ body {
 }
 
 html {
-  font-family: sans-serif;
+  font-family: verdana;
   -ms-text-size-adjust: 100%;
   -webkit-text-size-adjust: 100%;
 }
